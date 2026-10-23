@@ -21,7 +21,7 @@ Escopo exclusivo do planejador. Os arquivos e o comportamento dos painéis geren
 
 `python3 build.py`, `node --check combined.js` e `node test-planner.cjs`.
 
-50 verificações de comportamento passaram, incluindo contexto por filha, filtros correlacionados, confirmação e alterações posteriores, seleção oculta, arquivamento/desfazer, ordenação individual sem alteração de status, pedidos, calendário, colagem de bloco, edição em lote, restauração JSON e quarentena. Outros 359 manipuladores gerados foram verificados quanto à sintaxe. A verificação remota de interface é registrada após a publicação.
+51 verificações de comportamento passaram, incluindo contexto por filha, filtros correlacionados, confirmação e alterações posteriores, seleção oculta, arquivamento/desfazer, ordenação individual sem alteração de status, pedidos, calendário, colagem de bloco, edição em lote, restauração JSON e quarentena. Outros 359 manipuladores gerados foram verificados quanto à sintaxe. A verificação remota de interface é registrada após a publicação.
 
 ## Limites mantidos
 
