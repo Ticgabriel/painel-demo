@@ -1,0 +1,2855 @@
+[
+  {
+    "component": "Motor · DEMO 13",
+    "fleet": "320",
+    "seller": "Comercial Exemplo 1",
+    "client": "Cliente Demonstração 001",
+    "site": "Unidade Norte",
+    "os": "800001201",
+    "type": "Garantia",
+    "status": "Notificação",
+    "situation": "Aguardando negociação/aprovação",
+    "piecesNote": "",
+    "note": "Cliente solicitou revisão de escopo.\nConferir montagem e previsão antes de responder.",
+    "nextAction": "Obter Pedido do Cliente",
+    "owner": "Planejador",
+    "actionDue": "2026-10-29",
+    "reviewDate": "",
+    "forecast": "2026-11-11",
+    "confirmed": "",
+    "requisition": "97000012",
+    "nf": "",
+    "order": "",
+    "parts": 8800,
+    "services": 3620,
+    "arrival": "2026-09-08",
+    "notification": "2026-09-10",
+    "opened": "2026-09-13",
+    "budgetForecast": "",
+    "quoted": "",
+    "approved": "",
+    "shipped": "",
+    "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+    "invoice": "Não",
+    "invoiceMonth": "2026-10",
+    "id": "demo-row-013",
+    "history": [
+      {
+        "at": "2026-10-21T12:00:00Z",
+        "text": "Atendimento inteiramente fictício."
+      }
+    ],
+    "sap": [
+      {
+        "os": "800001201",
+        "client": "Cliente Demonstração 001",
+        "model": "320",
+        "serial": "DEMO-0012",
+        "service": "Motor · DEMO 13",
+        "parts": 8800,
+        "stage": "Notificação",
+        "origin": "Garantia",
+        "dates": {
+          "Data PR": "2026-11-11"
+        }
+      }
+    ],
+    "archived": false,
+    "primary": {},
+    "children": [
+      {
+        "number": "800001201",
+        "values": {
+          "status": "Notificação",
+          "situation": "Aguardando negociação/aprovação",
+          "note": "Cliente solicitou revisão de escopo.\nConferir montagem e previsão antes de responder.",
+          "nextAction": "Obter Pedido do Cliente",
+          "owner": "Planejador",
+          "actionDue": "2026-10-29",
+          "reviewDate": "",
+          "forecast": "2026-11-11",
+          "confirmed": "",
+          "requisition": "97000012",
+          "nf": "",
+          "parts": 8800,
+          "services": 3620,
+          "arrival": "2026-09-08",
+          "notification": "2026-09-10",
+          "opened": "2026-09-13",
+          "budgetForecast": "",
+          "quoted": "",
+          "approved": "",
+          "shipped": "",
+          "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+          "invoice": "Não",
+          "invoiceMonth": "2026-10"
+        },
+        "orders": [],
+        "quarantineAt": "",
+        "history": [
+          {
+            "at": "2026-10-21T12:00:00Z",
+            "text": "Dados fictícios gerados para avaliação."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "component": "Transmissão · DEMO 14",
+    "fleet": "950",
+    "seller": "Comercial Exemplo 2",
+    "client": "Cliente Demonstração 002",
+    "site": "Unidade Sul",
+    "os": "800001301/02",
+    "type": "Rentável",
+    "status": "Orçamento",
+    "situation": "Aguardando programação/recurso",
+    "piecesNote": "",
+    "note": "Contato comercial fictício; aguardando retorno do cliente.",
+    "nextAction": "Programar serviço",
+    "owner": "Comercial",
+    "actionDue": "2026-10-30",
+    "reviewDate": "2026-10-24",
+    "forecast": "2026-11-12",
+    "confirmed": "2026-10-21",
+    "requisition": "97000013",
+    "nf": "",
+    "order": "",
+    "parts": 9075,
+    "services": 3755,
+    "arrival": "2026-09-09",
+    "notification": "2026-09-11",
+    "opened": "2026-09-14",
+    "budgetForecast": "",
+    "quoted": "",
+    "approved": "",
+    "shipped": "",
+    "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+    "invoice": "Sim",
+    "invoiceMonth": "2026-10",
+    "id": "demo-row-014",
+    "history": [
+      {
+        "at": "2026-10-21T12:00:00Z",
+        "text": "Atendimento inteiramente fictício."
+      }
+    ],
+    "sap": [
+      {
+        "os": "800001301",
+        "client": "Cliente Demonstração 002",
+        "model": "950",
+        "serial": "DEMO-0013",
+        "service": "Transmissão · DEMO 14",
+        "parts": 9075,
+        "stage": "Orçamento",
+        "origin": "Rentável",
+        "dates": {
+          "Data PR": "2026-11-12"
+        }
+      }
+    ],
+    "archived": false,
+    "primary": {},
+    "children": [
+      {
+        "number": "800001301",
+        "values": {
+          "status": "Orçamento",
+          "situation": "Aguardando programação/recurso",
+          "note": "Contato comercial fictício; aguardando retorno do cliente.",
+          "nextAction": "Programar serviço",
+          "owner": "Comercial",
+          "actionDue": "2026-10-30",
+          "reviewDate": "2026-10-24",
+          "forecast": "2026-11-12",
+          "confirmed": "2026-10-21",
+          "requisition": "97000013",
+          "nf": "",
+          "parts": 9075,
+          "services": 3755,
+          "arrival": "2026-09-09",
+          "notification": "2026-09-11",
+          "opened": "2026-09-14",
+          "budgetForecast": "",
+          "quoted": "",
+          "approved": "",
+          "shipped": "",
+          "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+          "invoice": "Sim",
+          "invoiceMonth": "2026-10"
+        },
+        "orders": [
+          {
+            "id": "demo-order-13-0-1",
+            "pedido": "9900000130",
+            "due": "2026-11-02",
+            "note": "Prazo sintético de fornecimento."
+          }
+        ],
+        "quarantineAt": "",
+        "history": [
+          {
+            "at": "2026-10-21T12:00:00Z",
+            "text": "Dados fictícios gerados para avaliação."
+          }
+        ]
+      },
+      {
+        "number": "800001302",
+        "values": {
+          "status": "Negociação",
+          "situation": "Aguardando teste/liberação",
+          "note": "Contato comercial fictício; aguardando retorno do cliente.",
+          "nextAction": "",
+          "owner": "Oficina",
+          "actionDue": "",
+          "reviewDate": "2026-10-25",
+          "forecast": "2026-11-13",
+          "confirmed": "2026-10-20",
+          "requisition": "97000014",
+          "nf": "",
+          "parts": 9170,
+          "services": 3795,
+          "arrival": "2026-09-09",
+          "notification": "2026-09-11",
+          "opened": "2026-09-14",
+          "budgetForecast": "",
+          "quoted": "2026-10-08",
+          "approved": "",
+          "shipped": "",
+          "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+          "invoice": "Sim",
+          "invoiceMonth": "2026-10"
+        },
+        "orders": [
+          {
+            "id": "demo-order-13-1-1",
+            "pedido": "9900000131",
+            "due": "2026-11-03",
+            "note": "Prazo sintético de fornecimento."
+          }
+        ],
+        "quarantineAt": "",
+        "history": [
+          {
+            "at": "2026-10-21T12:00:00Z",
+            "text": "Dados fictícios gerados para avaliação."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "component": "Cilindro hidráulico · DEMO 15",
+    "fleet": "D8",
+    "seller": "Comercial Exemplo 3",
+    "client": "Cliente Demonstração 003",
+    "site": "",
+    "os": "800001401/02/03/04",
+    "type": "Garantia",
+    "status": "Negociação",
+    "situation": "Aguardando teste/liberação",
+    "piecesNote": "",
+    "note": "Contato comercial fictício; aguardando retorno do cliente.",
+    "nextAction": "",
+    "owner": "Oficina",
+    "actionDue": "",
+    "reviewDate": "2026-10-25",
+    "forecast": "2026-11-13",
+    "confirmed": "2026-10-20",
+    "requisition": "97000014",
+    "nf": "",
+    "order": "",
+    "parts": 9350,
+    "services": 3890,
+    "arrival": "2026-09-10",
+    "notification": "2026-09-12",
+    "opened": "2026-09-15",
+    "budgetForecast": "",
+    "quoted": "2026-10-09",
+    "approved": "",
+    "shipped": "",
+    "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+    "invoice": "Sim",
+    "invoiceMonth": "2026-10",
+    "id": "demo-row-015",
+    "history": [
+      {
+        "at": "2026-10-21T12:00:00Z",
+        "text": "Atendimento inteiramente fictício."
+      }
+    ],
+    "sap": [
+      {
+        "os": "800001401",
+        "client": "Cliente Demonstração 003",
+        "model": "D8",
+        "serial": "DEMO-0014",
+        "service": "Cilindro hidráulico · DEMO 15",
+        "parts": 9350,
+        "stage": "Negociação",
+        "origin": "Garantia",
+        "dates": {
+          "Data PR": "2026-11-13"
+        }
+      }
+    ],
+    "archived": false,
+    "primary": {},
+    "children": [
+      {
+        "number": "800001401",
+        "values": {
+          "status": "Negociação",
+          "situation": "Aguardando teste/liberação",
+          "note": "Contato comercial fictício; aguardando retorno do cliente.",
+          "nextAction": "",
+          "owner": "Oficina",
+          "actionDue": "",
+          "reviewDate": "2026-10-25",
+          "forecast": "2026-11-13",
+          "confirmed": "2026-10-20",
+          "requisition": "97000014",
+          "nf": "",
+          "parts": 9350,
+          "services": 3890,
+          "arrival": "2026-09-10",
+          "notification": "2026-09-12",
+          "opened": "2026-09-15",
+          "budgetForecast": "",
+          "quoted": "2026-10-09",
+          "approved": "",
+          "shipped": "",
+          "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+          "invoice": "Sim",
+          "invoiceMonth": "2026-10"
+        },
+        "orders": [
+          {
+            "id": "demo-order-14-0-1",
+            "pedido": "9900000140",
+            "due": "2026-11-03",
+            "note": "Prazo sintético de fornecimento."
+          }
+        ],
+        "quarantineAt": "",
+        "history": [
+          {
+            "at": "2026-10-21T12:00:00Z",
+            "text": "Dados fictícios gerados para avaliação."
+          }
+        ]
+      },
+      {
+        "number": "800001402",
+        "values": {
+          "status": "Aprovado",
+          "situation": "Aguardando coleta",
+          "note": "Contato comercial fictício; aguardando retorno do cliente.",
+          "nextAction": "Programar coleta",
+          "owner": "Terceiro",
+          "actionDue": "2026-10-17",
+          "reviewDate": "2026-10-26",
+          "forecast": "2026-11-14",
+          "confirmed": "2026-10-19",
+          "requisition": "97000015",
+          "nf": "",
+          "parts": 9445,
+          "services": 3930,
+          "arrival": "2026-09-10",
+          "notification": "2026-09-12",
+          "opened": "2026-09-15",
+          "budgetForecast": "",
+          "quoted": "2026-10-09",
+          "approved": "2026-10-15",
+          "shipped": "",
+          "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+          "invoice": "Não",
+          "invoiceMonth": "2026-10"
+        },
+        "orders": [
+          {
+            "id": "demo-order-14-1-2",
+            "pedido": "9800000141",
+            "due": "2026-11-12",
+            "note": "Segundo pedido fictício; verificar previsão."
+          }
+        ],
+        "quarantineAt": "",
+        "history": [
+          {
+            "at": "2026-10-21T12:00:00Z",
+            "text": "Dados fictícios gerados para avaliação."
+          }
+        ]
+      },
+      {
+        "number": "800001403",
+        "values": {
+          "status": "Pronto",
+          "situation": "Em andamento",
+          "note": "Cliente solicitou revisão de escopo.\nConferir montagem e previsão antes de responder.",
+          "nextAction": "Confirmar programação",
+          "owner": "Planejador",
+          "actionDue": "2026-10-18",
+          "reviewDate": "",
+          "forecast": "2026-11-15",
+          "confirmed": "",
+          "requisition": "97000016",
+          "nf": "",
+          "parts": 9540,
+          "services": 3970,
+          "arrival": "2026-09-10",
+          "notification": "2026-09-12",
+          "opened": "2026-09-15",
+          "budgetForecast": "",
+          "quoted": "2026-10-09",
+          "approved": "2026-10-15",
+          "shipped": "",
+          "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+          "invoice": "Sim",
+          "invoiceMonth": "2026-10"
+        },
+        "orders": [
+          {
+            "id": "demo-order-14-2-1",
+            "pedido": "9900000142",
+            "due": "2026-11-05",
+            "note": "Prazo sintético de fornecimento."
+          }
+        ],
+        "quarantineAt": "",
+        "history": [
+          {
+            "at": "2026-10-21T12:00:00Z",
+            "text": "Dados fictícios gerados para avaliação."
+          }
+        ]
+      },
+      {
+        "number": "800001404",
+        "values": {
+          "status": "Enviado",
+          "situation": "Aguardando peças",
+          "note": "Contato comercial fictício; aguardando retorno do cliente.",
+          "nextAction": "Acompanhar pedido de peças",
+          "owner": "Comercial",
+          "actionDue": "2026-10-19",
+          "reviewDate": "2026-10-28",
+          "forecast": "2026-11-16",
+          "confirmed": "2026-10-17",
+          "requisition": "97000017",
+          "nf": "",
+          "parts": 9635,
+          "services": 4010,
+          "arrival": "2026-09-10",
+          "notification": "2026-09-12",
+          "opened": "2026-09-15",
+          "budgetForecast": "",
+          "quoted": "2026-10-09",
+          "approved": "2026-10-15",
+          "shipped": "",
+          "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+          "invoice": "Sim",
+          "invoiceMonth": "2026-10"
+        },
+        "orders": [
+          {
+            "id": "demo-order-14-3-1",
+            "pedido": "9900000143",
+            "due": "2026-11-06",
+            "note": "Prazo sintético de fornecimento."
+          }
+        ],
+        "quarantineAt": "",
+        "history": [
+          {
+            "at": "2026-10-21T12:00:00Z",
+            "text": "Dados fictícios gerados para avaliação."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "component": "Comando final · DEMO 16",
+    "fleet": "777",
+    "seller": "Comercial Exemplo 1",
+    "client": "Cliente Demonstração 004",
+    "site": "Unidade Norte",
+    "os": "800001501",
+    "type": "Rentável",
+    "status": "Aprovado",
+    "situation": "Aguardando coleta",
+    "piecesNote": "",
+    "note": "Contato comercial fictício; aguardando retorno do cliente.",
+    "nextAction": "Programar coleta",
+    "owner": "Terceiro",
+    "actionDue": "2026-10-17",
+    "reviewDate": "2026-10-26",
+    "forecast": "2026-11-14",
+    "confirmed": "2026-10-19",
+    "requisition": "97000015",
+    "nf": "",
+    "order": "",
+    "parts": 9625,
+    "services": 4025,
+    "arrival": "2026-09-11",
+    "notification": "2026-09-13",
+    "opened": "2026-09-16",
+    "budgetForecast": "",
+    "quoted": "2026-10-10",
+    "approved": "2026-10-16",
+    "shipped": "",
+    "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+    "invoice": "Não",
+    "invoiceMonth": "2026-10",
+    "id": "demo-row-016",
+    "history": [
+      {
+        "at": "2026-10-21T12:00:00Z",
+        "text": "Atendimento inteiramente fictício."
+      }
+    ],
+    "sap": [
+      {
+        "os": "800001501",
+        "client": "Cliente Demonstração 004",
+        "model": "777",
+        "serial": "DEMO-0015",
+        "service": "Comando final · DEMO 16",
+        "parts": 9625,
+        "stage": "Aprovado",
+        "origin": "Rentável",
+        "dates": {
+          "Data PR": "2026-11-14"
+        }
+      }
+    ],
+    "archived": false,
+    "primary": {},
+    "children": [
+      {
+        "number": "800001501",
+        "values": {
+          "status": "Aprovado",
+          "situation": "Aguardando coleta",
+          "note": "Contato comercial fictício; aguardando retorno do cliente.",
+          "nextAction": "Programar coleta",
+          "owner": "Terceiro",
+          "actionDue": "2026-10-17",
+          "reviewDate": "2026-10-26",
+          "forecast": "2026-11-14",
+          "confirmed": "2026-10-19",
+          "requisition": "97000015",
+          "nf": "",
+          "parts": 9625,
+          "services": 4025,
+          "arrival": "2026-09-11",
+          "notification": "2026-09-13",
+          "opened": "2026-09-16",
+          "budgetForecast": "",
+          "quoted": "2026-10-10",
+          "approved": "2026-10-16",
+          "shipped": "",
+          "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+          "invoice": "Não",
+          "invoiceMonth": "2026-10"
+        },
+        "orders": [
+          {
+            "id": "demo-order-15-0-2",
+            "pedido": "9800000150",
+            "due": "2026-11-12",
+            "note": "Segundo pedido fictício; verificar previsão."
+          }
+        ],
+        "quarantineAt": "",
+        "history": [
+          {
+            "at": "2026-10-21T12:00:00Z",
+            "text": "Dados fictícios gerados para avaliação."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "component": "Conversor · DEMO 17",
+    "fleet": "320",
+    "seller": "Comercial Exemplo 2",
+    "client": "Cliente Demonstração 005",
+    "site": "Unidade Sul",
+    "os": "800001601/02",
+    "type": "Garantia",
+    "status": "Pronto",
+    "situation": "Em andamento",
+    "piecesNote": "",
+    "note": "Cliente solicitou revisão de escopo.\nConferir montagem e previsão antes de responder.",
+    "nextAction": "Confirmar programação",
+    "owner": "Planejador",
+    "actionDue": "2026-10-18",
+    "reviewDate": "",
+    "forecast": "2026-11-15",
+    "confirmed": "",
+    "requisition": "97000016",
+    "nf": "",
+    "order": "",
+    "parts": 9900,
+    "services": 4160,
+    "arrival": "2026-09-12",
+    "notification": "2026-09-14",
+    "opened": "2026-09-17",
+    "budgetForecast": "",
+    "quoted": "2026-10-03",
+    "approved": "2026-10-17",
+    "shipped": "",
+    "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+    "invoice": "Sim",
+    "invoiceMonth": "2026-10",
+    "id": "demo-row-017",
+    "history": [
+      {
+        "at": "2026-10-21T12:00:00Z",
+        "text": "Atendimento inteiramente fictício."
+      }
+    ],
+    "sap": [
+      {
+        "os": "800001601",
+        "client": "Cliente Demonstração 005",
+        "model": "320",
+        "serial": "DEMO-0016",
+        "service": "Conversor · DEMO 17",
+        "parts": 9900,
+        "stage": "Pronto",
+        "origin": "Garantia",
+        "dates": {
+          "Data PR": "2026-11-15"
+        }
+      }
+    ],
+    "archived": false,
+    "primary": {},
+    "children": [
+      {
+        "number": "800001601",
+        "values": {
+          "status": "Pronto",
+          "situation": "Em andamento",
+          "note": "Cliente solicitou revisão de escopo.\nConferir montagem e previsão antes de responder.",
+          "nextAction": "Confirmar programação",
+          "owner": "Planejador",
+          "actionDue": "2026-10-18",
+          "reviewDate": "",
+          "forecast": "2026-11-15",
+          "confirmed": "",
+          "requisition": "97000016",
+          "nf": "",
+          "parts": 9900,
+          "services": 4160,
+          "arrival": "2026-09-12",
+          "notification": "2026-09-14",
+          "opened": "2026-09-17",
+          "budgetForecast": "",
+          "quoted": "2026-10-03",
+          "approved": "2026-10-17",
+          "shipped": "",
+          "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+          "invoice": "Sim",
+          "invoiceMonth": "2026-10"
+        },
+        "orders": [
+          {
+            "id": "demo-order-16-0-1",
+            "pedido": "9900000160",
+            "due": "2026-11-05",
+            "note": "Prazo sintético de fornecimento."
+          }
+        ],
+        "quarantineAt": "",
+        "history": [
+          {
+            "at": "2026-10-21T12:00:00Z",
+            "text": "Dados fictícios gerados para avaliação."
+          }
+        ]
+      },
+      {
+        "number": "800001602",
+        "values": {
+          "status": "Enviado",
+          "situation": "Aguardando peças",
+          "note": "Contato comercial fictício; aguardando retorno do cliente.",
+          "nextAction": "Acompanhar pedido de peças",
+          "owner": "Comercial",
+          "actionDue": "2026-10-19",
+          "reviewDate": "2026-10-28",
+          "forecast": "2026-11-16",
+          "confirmed": "2026-10-17",
+          "requisition": "97000017",
+          "nf": "",
+          "parts": 9995,
+          "services": 4200,
+          "arrival": "2026-09-12",
+          "notification": "2026-09-14",
+          "opened": "2026-09-17",
+          "budgetForecast": "",
+          "quoted": "2026-10-03",
+          "approved": "2026-10-17",
+          "shipped": "",
+          "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+          "invoice": "Sim",
+          "invoiceMonth": "2026-10"
+        },
+        "orders": [
+          {
+            "id": "demo-order-16-1-1",
+            "pedido": "9900000161",
+            "due": "2026-11-06",
+            "note": "Prazo sintético de fornecimento."
+          }
+        ],
+        "quarantineAt": "",
+        "history": [
+          {
+            "at": "2026-10-21T12:00:00Z",
+            "text": "Dados fictícios gerados para avaliação."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "component": "Bomba hidráulica · DEMO 18",
+    "fleet": "950",
+    "seller": "Comercial Exemplo 3",
+    "client": "Cliente Demonstração 006",
+    "site": "",
+    "os": "800001701/02/03/04",
+    "type": "Rentável",
+    "status": "Enviado",
+    "situation": "Aguardando peças",
+    "piecesNote": "",
+    "note": "Contato comercial fictício; aguardando retorno do cliente.",
+    "nextAction": "Acompanhar pedido de peças",
+    "owner": "Comercial",
+    "actionDue": "2026-10-19",
+    "reviewDate": "2026-10-28",
+    "forecast": "2026-11-16",
+    "confirmed": "2026-10-17",
+    "requisition": "97000017",
+    "nf": "",
+    "order": "",
+    "parts": 10175,
+    "services": 4295,
+    "arrival": "2026-09-13",
+    "notification": "2026-09-15",
+    "opened": "2026-09-18",
+    "budgetForecast": "",
+    "quoted": "2026-10-04",
+    "approved": "2026-10-18",
+    "shipped": "",
+    "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+    "invoice": "Sim",
+    "invoiceMonth": "2026-10",
+    "id": "demo-row-018",
+    "history": [
+      {
+        "at": "2026-10-21T12:00:00Z",
+        "text": "Atendimento inteiramente fictício."
+      }
+    ],
+    "sap": [
+      {
+        "os": "800001701",
+        "client": "Cliente Demonstração 006",
+        "model": "950",
+        "serial": "DEMO-0017",
+        "service": "Bomba hidráulica · DEMO 18",
+        "parts": 10175,
+        "stage": "Enviado",
+        "origin": "Rentável",
+        "dates": {
+          "Data PR": "2026-11-16"
+        }
+      }
+    ],
+    "archived": false,
+    "primary": {},
+    "children": [
+      {
+        "number": "800001701",
+        "values": {
+          "status": "Enviado",
+          "situation": "Aguardando peças",
+          "note": "Contato comercial fictício; aguardando retorno do cliente.",
+          "nextAction": "Acompanhar pedido de peças",
+          "owner": "Comercial",
+          "actionDue": "2026-10-19",
+          "reviewDate": "2026-10-28",
+          "forecast": "2026-11-16",
+          "confirmed": "2026-10-17",
+          "requisition": "97000017",
+          "nf": "",
+          "parts": 10175,
+          "services": 4295,
+          "arrival": "2026-09-13",
+          "notification": "2026-09-15",
+          "opened": "2026-09-18",
+          "budgetForecast": "",
+          "quoted": "2026-10-04",
+          "approved": "2026-10-18",
+          "shipped": "",
+          "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+          "invoice": "Sim",
+          "invoiceMonth": "2026-10"
+        },
+        "orders": [
+          {
+            "id": "demo-order-17-0-1",
+            "pedido": "9900000170",
+            "due": "2026-11-06",
+            "note": "Prazo sintético de fornecimento."
+          }
+        ],
+        "quarantineAt": "",
+        "history": [
+          {
+            "at": "2026-10-21T12:00:00Z",
+            "text": "Dados fictícios gerados para avaliação."
+          }
+        ]
+      },
+      {
+        "number": "800001702",
+        "values": {
+          "status": "Notificação",
+          "situation": "Aguardando terceiro",
+          "note": "Contato comercial fictício; aguardando retorno do cliente.",
+          "nextAction": "Acompanhar serviço externo",
+          "owner": "Oficina",
+          "actionDue": "2026-10-20",
+          "reviewDate": "2026-10-29",
+          "forecast": "2026-11-17",
+          "confirmed": "2026-10-16",
+          "requisition": "97000018",
+          "nf": "",
+          "parts": 10270,
+          "services": 4335,
+          "arrival": "2026-09-13",
+          "notification": "2026-09-15",
+          "opened": "2026-09-18",
+          "budgetForecast": "",
+          "quoted": "",
+          "approved": "",
+          "shipped": "",
+          "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+          "invoice": "Não",
+          "invoiceMonth": "2026-10"
+        },
+        "orders": [],
+        "quarantineAt": "",
+        "history": [
+          {
+            "at": "2026-10-21T12:00:00Z",
+            "text": "Dados fictícios gerados para avaliação."
+          }
+        ]
+      },
+      {
+        "number": "800001703",
+        "values": {
+          "status": "Orçamento",
+          "situation": "Aguardando envio do orçamento",
+          "note": "Contato comercial fictício; aguardando retorno do cliente.",
+          "nextAction": "Enviar orçamento",
+          "owner": "Terceiro",
+          "actionDue": "2026-10-21",
+          "reviewDate": "2026-10-30",
+          "forecast": "2026-11-18",
+          "confirmed": "2026-10-15",
+          "requisition": "97000019",
+          "nf": "",
+          "parts": 10365,
+          "services": 4375,
+          "arrival": "2026-09-13",
+          "notification": "2026-09-15",
+          "opened": "2026-09-18",
+          "budgetForecast": "",
+          "quoted": "",
+          "approved": "",
+          "shipped": "",
+          "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+          "invoice": "Sim",
+          "invoiceMonth": "2026-10"
+        },
+        "orders": [
+          {
+            "id": "demo-order-17-2-1",
+            "pedido": "9900000172",
+            "due": "2026-11-08",
+            "note": "Prazo sintético de fornecimento."
+          }
+        ],
+        "quarantineAt": "",
+        "history": [
+          {
+            "at": "2026-10-21T12:00:00Z",
+            "text": "Dados fictícios gerados para avaliação."
+          }
+        ]
+      },
+      {
+        "number": "800001704",
+        "values": {
+          "status": "Negociação",
+          "situation": "Aguardando negociação/aprovação",
+          "note": "Cliente solicitou revisão de escopo.\nConferir montagem e previsão antes de responder.",
+          "nextAction": "Obter Pedido do Cliente",
+          "owner": "Planejador",
+          "actionDue": "2026-10-22",
+          "reviewDate": "",
+          "forecast": "2026-11-19",
+          "confirmed": "",
+          "requisition": "97000020",
+          "nf": "",
+          "parts": 10460,
+          "services": 4415,
+          "arrival": "2026-09-13",
+          "notification": "2026-09-15",
+          "opened": "2026-09-18",
+          "budgetForecast": "",
+          "quoted": "2026-10-04",
+          "approved": "",
+          "shipped": "",
+          "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+          "invoice": "Sim",
+          "invoiceMonth": "2026-10"
+        },
+        "orders": [
+          {
+            "id": "demo-order-17-3-1",
+            "pedido": "9900000173",
+            "due": "2026-10-20",
+            "note": "Prazo sintético de fornecimento."
+          },
+          {
+            "id": "demo-order-17-3-2",
+            "pedido": "9800000173",
+            "due": "2026-11-07",
+            "note": "Segundo pedido fictício; verificar previsão."
+          }
+        ],
+        "quarantineAt": "",
+        "history": [
+          {
+            "at": "2026-10-21T12:00:00Z",
+            "text": "Dados fictícios gerados para avaliação."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "component": "Motor · DEMO 19",
+    "fleet": "D8",
+    "seller": "Comercial Exemplo 1",
+    "client": "Cliente Demonstração 007",
+    "site": "Unidade Norte",
+    "os": "800001801",
+    "type": "Garantia",
+    "status": "Notificação",
+    "situation": "Aguardando terceiro",
+    "piecesNote": "",
+    "note": "Contato comercial fictício; aguardando retorno do cliente.",
+    "nextAction": "Acompanhar serviço externo",
+    "owner": "Oficina",
+    "actionDue": "2026-10-20",
+    "reviewDate": "2026-10-29",
+    "forecast": "2026-11-17",
+    "confirmed": "2026-10-16",
+    "requisition": "97000018",
+    "nf": "",
+    "order": "",
+    "parts": 10450,
+    "services": 4430,
+    "arrival": "2026-09-14",
+    "notification": "2026-09-16",
+    "opened": "2026-09-19",
+    "budgetForecast": "",
+    "quoted": "",
+    "approved": "",
+    "shipped": "",
+    "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+    "invoice": "Não",
+    "invoiceMonth": "2026-10",
+    "id": "demo-row-019",
+    "history": [
+      {
+        "at": "2026-10-21T12:00:00Z",
+        "text": "Atendimento inteiramente fictício."
+      }
+    ],
+    "sap": [
+      {
+        "os": "800001801",
+        "client": "Cliente Demonstração 007",
+        "model": "D8",
+        "serial": "DEMO-0018",
+        "service": "Motor · DEMO 19",
+        "parts": 10450,
+        "stage": "Notificação",
+        "origin": "Garantia",
+        "dates": {
+          "Data PR": "2026-11-17"
+        }
+      }
+    ],
+    "archived": false,
+    "primary": {},
+    "children": [
+      {
+        "number": "800001801",
+        "values": {
+          "status": "Notificação",
+          "situation": "Aguardando terceiro",
+          "note": "Contato comercial fictício; aguardando retorno do cliente.",
+          "nextAction": "Acompanhar serviço externo",
+          "owner": "Oficina",
+          "actionDue": "2026-10-20",
+          "reviewDate": "2026-10-29",
+          "forecast": "2026-11-17",
+          "confirmed": "2026-10-16",
+          "requisition": "97000018",
+          "nf": "",
+          "parts": 10450,
+          "services": 4430,
+          "arrival": "2026-09-14",
+          "notification": "2026-09-16",
+          "opened": "2026-09-19",
+          "budgetForecast": "",
+          "quoted": "",
+          "approved": "",
+          "shipped": "",
+          "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+          "invoice": "Não",
+          "invoiceMonth": "2026-10"
+        },
+        "orders": [],
+        "quarantineAt": "",
+        "history": [
+          {
+            "at": "2026-10-21T12:00:00Z",
+            "text": "Dados fictícios gerados para avaliação."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "component": "Transmissão · DEMO 20",
+    "fleet": "777",
+    "seller": "Comercial Exemplo 2",
+    "client": "Cliente Demonstração 008",
+    "site": "Unidade Sul",
+    "os": "800001901/02",
+    "type": "Rentável",
+    "status": "Orçamento",
+    "situation": "Aguardando envio do orçamento",
+    "piecesNote": "",
+    "note": "Contato comercial fictício; aguardando retorno do cliente.",
+    "nextAction": "Enviar orçamento",
+    "owner": "Terceiro",
+    "actionDue": "2026-10-21",
+    "reviewDate": "2026-10-30",
+    "forecast": "2026-11-18",
+    "confirmed": "2026-10-15",
+    "requisition": "97000019",
+    "nf": "",
+    "order": "",
+    "parts": 10725,
+    "services": 4565,
+    "arrival": "2026-09-15",
+    "notification": "2026-09-17",
+    "opened": "2026-09-20",
+    "budgetForecast": "",
+    "quoted": "",
+    "approved": "",
+    "shipped": "",
+    "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+    "invoice": "Sim",
+    "invoiceMonth": "2026-10",
+    "id": "demo-row-020",
+    "history": [
+      {
+        "at": "2026-10-21T12:00:00Z",
+        "text": "Atendimento inteiramente fictício."
+      }
+    ],
+    "sap": [
+      {
+        "os": "800001901",
+        "client": "Cliente Demonstração 008",
+        "model": "777",
+        "serial": "DEMO-0019",
+        "service": "Transmissão · DEMO 20",
+        "parts": 10725,
+        "stage": "Orçamento",
+        "origin": "Rentável",
+        "dates": {
+          "Data PR": "2026-11-18"
+        }
+      }
+    ],
+    "archived": false,
+    "primary": {},
+    "children": [
+      {
+        "number": "800001901",
+        "values": {
+          "status": "Orçamento",
+          "situation": "Aguardando envio do orçamento",
+          "note": "Contato comercial fictício; aguardando retorno do cliente.",
+          "nextAction": "Enviar orçamento",
+          "owner": "Terceiro",
+          "actionDue": "2026-10-21",
+          "reviewDate": "2026-10-30",
+          "forecast": "2026-11-18",
+          "confirmed": "2026-10-15",
+          "requisition": "97000019",
+          "nf": "",
+          "parts": 10725,
+          "services": 4565,
+          "arrival": "2026-09-15",
+          "notification": "2026-09-17",
+          "opened": "2026-09-20",
+          "budgetForecast": "",
+          "quoted": "",
+          "approved": "",
+          "shipped": "",
+          "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+          "invoice": "Sim",
+          "invoiceMonth": "2026-10"
+        },
+        "orders": [
+          {
+            "id": "demo-order-19-0-1",
+            "pedido": "9900000190",
+            "due": "2026-11-08",
+            "note": "Prazo sintético de fornecimento."
+          }
+        ],
+        "quarantineAt": "",
+        "history": [
+          {
+            "at": "2026-10-21T12:00:00Z",
+            "text": "Dados fictícios gerados para avaliação."
+          }
+        ]
+      },
+      {
+        "number": "800001902",
+        "values": {
+          "status": "Negociação",
+          "situation": "Aguardando negociação/aprovação",
+          "note": "Cliente solicitou revisão de escopo.\nConferir montagem e previsão antes de responder.",
+          "nextAction": "Obter Pedido do Cliente",
+          "owner": "Planejador",
+          "actionDue": "2026-10-22",
+          "reviewDate": "",
+          "forecast": "2026-11-19",
+          "confirmed": "",
+          "requisition": "97000020",
+          "nf": "",
+          "parts": 10820,
+          "services": 4605,
+          "arrival": "2026-09-15",
+          "notification": "2026-09-17",
+          "opened": "2026-09-20",
+          "budgetForecast": "",
+          "quoted": "2026-10-06",
+          "approved": "",
+          "shipped": "",
+          "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+          "invoice": "Sim",
+          "invoiceMonth": "2026-10"
+        },
+        "orders": [
+          {
+            "id": "demo-order-19-1-1",
+            "pedido": "9900000191",
+            "due": "2026-10-20",
+            "note": "Prazo sintético de fornecimento."
+          },
+          {
+            "id": "demo-order-19-1-2",
+            "pedido": "9800000191",
+            "due": "2026-11-07",
+            "note": "Segundo pedido fictício; verificar previsão."
+          }
+        ],
+        "quarantineAt": "",
+        "history": [
+          {
+            "at": "2026-10-21T12:00:00Z",
+            "text": "Dados fictícios gerados para avaliação."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "component": "Cilindro hidráulico · DEMO 21",
+    "fleet": "320",
+    "seller": "Comercial Exemplo 3",
+    "client": "Cliente Demonstração 009",
+    "site": "",
+    "os": "800002001/02/03/04",
+    "type": "Garantia",
+    "status": "Negociação",
+    "situation": "Aguardando negociação/aprovação",
+    "piecesNote": "",
+    "note": "Cliente solicitou revisão de escopo.\nConferir montagem e previsão antes de responder.",
+    "nextAction": "Obter Pedido do Cliente",
+    "owner": "Planejador",
+    "actionDue": "2026-10-22",
+    "reviewDate": "",
+    "forecast": "2026-11-19",
+    "confirmed": "",
+    "requisition": "97000020",
+    "nf": "",
+    "order": "",
+    "parts": 11000,
+    "services": 4700,
+    "arrival": "2026-09-16",
+    "notification": "2026-09-18",
+    "opened": "2026-09-21",
+    "budgetForecast": "",
+    "quoted": "2026-10-07",
+    "approved": "",
+    "shipped": "",
+    "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+    "invoice": "Sim",
+    "invoiceMonth": "2026-10",
+    "id": "demo-row-021",
+    "history": [
+      {
+        "at": "2026-10-21T12:00:00Z",
+        "text": "Atendimento inteiramente fictício."
+      }
+    ],
+    "sap": [
+      {
+        "os": "800002001",
+        "client": "Cliente Demonstração 009",
+        "model": "320",
+        "serial": "DEMO-0020",
+        "service": "Cilindro hidráulico · DEMO 21",
+        "parts": 11000,
+        "stage": "Negociação",
+        "origin": "Garantia",
+        "dates": {
+          "Data PR": "2026-11-19"
+        }
+      }
+    ],
+    "archived": false,
+    "primary": {},
+    "children": [
+      {
+        "number": "800002001",
+        "values": {
+          "status": "Negociação",
+          "situation": "Aguardando negociação/aprovação",
+          "note": "Cliente solicitou revisão de escopo.\nConferir montagem e previsão antes de responder.",
+          "nextAction": "Obter Pedido do Cliente",
+          "owner": "Planejador",
+          "actionDue": "2026-10-22",
+          "reviewDate": "",
+          "forecast": "2026-11-19",
+          "confirmed": "",
+          "requisition": "97000020",
+          "nf": "",
+          "parts": 11000,
+          "services": 4700,
+          "arrival": "2026-09-16",
+          "notification": "2026-09-18",
+          "opened": "2026-09-21",
+          "budgetForecast": "",
+          "quoted": "2026-10-07",
+          "approved": "",
+          "shipped": "",
+          "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+          "invoice": "Sim",
+          "invoiceMonth": "2026-10"
+        },
+        "orders": [
+          {
+            "id": "demo-order-20-0-1",
+            "pedido": "9900000200",
+            "due": "2026-10-20",
+            "note": "Prazo sintético de fornecimento."
+          },
+          {
+            "id": "demo-order-20-0-2",
+            "pedido": "9800000200",
+            "due": "2026-11-07",
+            "note": "Segundo pedido fictício; verificar previsão."
+          }
+        ],
+        "quarantineAt": "",
+        "history": [
+          {
+            "at": "2026-10-21T12:00:00Z",
+            "text": "Dados fictícios gerados para avaliação."
+          }
+        ]
+      },
+      {
+        "number": "800002002",
+        "values": {
+          "status": "Aprovado",
+          "situation": "Aguardando programação/recurso",
+          "note": "Contato comercial fictício; aguardando retorno do cliente.",
+          "nextAction": "",
+          "owner": "Comercial",
+          "actionDue": "",
+          "reviewDate": "2026-10-22",
+          "forecast": "2026-11-20",
+          "confirmed": "2026-10-13",
+          "requisition": "97000021",
+          "nf": "",
+          "parts": 11095,
+          "services": 4740,
+          "arrival": "2026-09-16",
+          "notification": "2026-09-18",
+          "opened": "2026-09-21",
+          "budgetForecast": "",
+          "quoted": "2026-10-07",
+          "approved": "2026-10-15",
+          "shipped": "",
+          "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+          "invoice": "Não",
+          "invoiceMonth": "2026-10"
+        },
+        "orders": [],
+        "quarantineAt": "",
+        "history": [
+          {
+            "at": "2026-10-21T12:00:00Z",
+            "text": "Dados fictícios gerados para avaliação."
+          }
+        ]
+      },
+      {
+        "number": "800002003",
+        "values": {
+          "status": "Pronto",
+          "situation": "Aguardando teste/liberação",
+          "note": "Contato comercial fictício; aguardando retorno do cliente.",
+          "nextAction": "Realizar teste",
+          "owner": "Oficina",
+          "actionDue": "2026-10-24",
+          "reviewDate": "2026-10-23",
+          "forecast": "2026-11-21",
+          "confirmed": "2026-10-12",
+          "requisition": "97000022",
+          "nf": "",
+          "parts": 11190,
+          "services": 4780,
+          "arrival": "2026-09-16",
+          "notification": "2026-09-18",
+          "opened": "2026-09-21",
+          "budgetForecast": "",
+          "quoted": "2026-10-07",
+          "approved": "2026-10-15",
+          "shipped": "",
+          "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+          "invoice": "Sim",
+          "invoiceMonth": "2026-10"
+        },
+        "orders": [
+          {
+            "id": "demo-order-20-2-1",
+            "pedido": "9900000202",
+            "due": "2026-10-22",
+            "note": "Prazo sintético de fornecimento."
+          }
+        ],
+        "quarantineAt": "",
+        "history": [
+          {
+            "at": "2026-10-21T12:00:00Z",
+            "text": "Dados fictícios gerados para avaliação."
+          }
+        ]
+      },
+      {
+        "number": "800002004",
+        "values": {
+          "status": "Enviado",
+          "situation": "Aguardando coleta",
+          "note": "Contato comercial fictício; aguardando retorno do cliente.",
+          "nextAction": "Programar coleta",
+          "owner": "Terceiro",
+          "actionDue": "2026-10-25",
+          "reviewDate": "2026-10-24",
+          "forecast": "2026-11-22",
+          "confirmed": "2026-10-11",
+          "requisition": "97000023",
+          "nf": "",
+          "parts": 11285,
+          "services": 4820,
+          "arrival": "2026-09-16",
+          "notification": "2026-09-18",
+          "opened": "2026-09-21",
+          "budgetForecast": "",
+          "quoted": "2026-10-07",
+          "approved": "2026-10-15",
+          "shipped": "",
+          "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+          "invoice": "Sim",
+          "invoiceMonth": "2026-10"
+        },
+        "orders": [
+          {
+            "id": "demo-order-20-3-1",
+            "pedido": "9900000203",
+            "due": "2026-10-23",
+            "note": "Prazo sintético de fornecimento."
+          }
+        ],
+        "quarantineAt": "",
+        "history": [
+          {
+            "at": "2026-10-21T12:00:00Z",
+            "text": "Dados fictícios gerados para avaliação."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "component": "Comando final · DEMO 22",
+    "fleet": "950",
+    "seller": "Comercial Exemplo 1",
+    "client": "Cliente Demonstração 010",
+    "site": "Unidade Norte",
+    "os": "800002101",
+    "type": "Rentável",
+    "status": "Aprovado",
+    "situation": "Aguardando programação/recurso",
+    "piecesNote": "",
+    "note": "Contato comercial fictício; aguardando retorno do cliente.",
+    "nextAction": "",
+    "owner": "Comercial",
+    "actionDue": "",
+    "reviewDate": "2026-10-22",
+    "forecast": "2026-11-20",
+    "confirmed": "2026-10-13",
+    "requisition": "97000021",
+    "nf": "",
+    "order": "",
+    "parts": 11275,
+    "services": 4835,
+    "arrival": "2026-09-17",
+    "notification": "2026-09-19",
+    "opened": "2026-09-22",
+    "budgetForecast": "",
+    "quoted": "2026-10-08",
+    "approved": "2026-10-16",
+    "shipped": "",
+    "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+    "invoice": "Não",
+    "invoiceMonth": "2026-10",
+    "id": "demo-row-022",
+    "history": [
+      {
+        "at": "2026-10-21T12:00:00Z",
+        "text": "Atendimento inteiramente fictício."
+      }
+    ],
+    "sap": [
+      {
+        "os": "800002101",
+        "client": "Cliente Demonstração 010",
+        "model": "950",
+        "serial": "DEMO-0021",
+        "service": "Comando final · DEMO 22",
+        "parts": 11275,
+        "stage": "Aprovado",
+        "origin": "Rentável",
+        "dates": {
+          "Data PR": "2026-11-20"
+        }
+      }
+    ],
+    "archived": false,
+    "primary": {},
+    "children": [
+      {
+        "number": "800002101",
+        "values": {
+          "status": "Aprovado",
+          "situation": "Aguardando programação/recurso",
+          "note": "Contato comercial fictício; aguardando retorno do cliente.",
+          "nextAction": "",
+          "owner": "Comercial",
+          "actionDue": "",
+          "reviewDate": "2026-10-22",
+          "forecast": "2026-11-20",
+          "confirmed": "2026-10-13",
+          "requisition": "97000021",
+          "nf": "",
+          "parts": 11275,
+          "services": 4835,
+          "arrival": "2026-09-17",
+          "notification": "2026-09-19",
+          "opened": "2026-09-22",
+          "budgetForecast": "",
+          "quoted": "2026-10-08",
+          "approved": "2026-10-16",
+          "shipped": "",
+          "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+          "invoice": "Não",
+          "invoiceMonth": "2026-10"
+        },
+        "orders": [],
+        "quarantineAt": "",
+        "history": [
+          {
+            "at": "2026-10-21T12:00:00Z",
+            "text": "Dados fictícios gerados para avaliação."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "component": "Conversor · DEMO 23",
+    "fleet": "D8",
+    "seller": "Comercial Exemplo 2",
+    "client": "Cliente Demonstração 011",
+    "site": "Unidade Sul",
+    "os": "800002201/02",
+    "type": "Garantia",
+    "status": "Pronto",
+    "situation": "Aguardando teste/liberação",
+    "piecesNote": "",
+    "note": "Contato comercial fictício; aguardando retorno do cliente.",
+    "nextAction": "Realizar teste",
+    "owner": "Oficina",
+    "actionDue": "2026-10-24",
+    "reviewDate": "2026-10-23",
+    "forecast": "2026-11-21",
+    "confirmed": "2026-10-12",
+    "requisition": "97000022",
+    "nf": "",
+    "order": "",
+    "parts": 11550,
+    "services": 4970,
+    "arrival": "2026-09-18",
+    "notification": "2026-09-20",
+    "opened": "2026-09-23",
+    "budgetForecast": "",
+    "quoted": "2026-10-09",
+    "approved": "2026-10-17",
+    "shipped": "",
+    "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+    "invoice": "Sim",
+    "invoiceMonth": "2026-10",
+    "id": "demo-row-023",
+    "history": [
+      {
+        "at": "2026-10-21T12:00:00Z",
+        "text": "Atendimento inteiramente fictício."
+      }
+    ],
+    "sap": [
+      {
+        "os": "800002201",
+        "client": "Cliente Demonstração 011",
+        "model": "D8",
+        "serial": "DEMO-0022",
+        "service": "Conversor · DEMO 23",
+        "parts": 11550,
+        "stage": "Pronto",
+        "origin": "Garantia",
+        "dates": {
+          "Data PR": "2026-11-21"
+        }
+      }
+    ],
+    "archived": false,
+    "primary": {},
+    "children": [
+      {
+        "number": "800002201",
+        "values": {
+          "status": "Pronto",
+          "situation": "Aguardando teste/liberação",
+          "note": "Contato comercial fictício; aguardando retorno do cliente.",
+          "nextAction": "Realizar teste",
+          "owner": "Oficina",
+          "actionDue": "2026-10-24",
+          "reviewDate": "2026-10-23",
+          "forecast": "2026-11-21",
+          "confirmed": "2026-10-12",
+          "requisition": "97000022",
+          "nf": "",
+          "parts": 11550,
+          "services": 4970,
+          "arrival": "2026-09-18",
+          "notification": "2026-09-20",
+          "opened": "2026-09-23",
+          "budgetForecast": "",
+          "quoted": "2026-10-09",
+          "approved": "2026-10-17",
+          "shipped": "",
+          "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+          "invoice": "Sim",
+          "invoiceMonth": "2026-10"
+        },
+        "orders": [
+          {
+            "id": "demo-order-22-0-1",
+            "pedido": "9900000220",
+            "due": "2026-10-22",
+            "note": "Prazo sintético de fornecimento."
+          }
+        ],
+        "quarantineAt": "",
+        "history": [
+          {
+            "at": "2026-10-21T12:00:00Z",
+            "text": "Dados fictícios gerados para avaliação."
+          }
+        ]
+      },
+      {
+        "number": "800002202",
+        "values": {
+          "status": "Enviado",
+          "situation": "Aguardando coleta",
+          "note": "Contato comercial fictício; aguardando retorno do cliente.",
+          "nextAction": "Programar coleta",
+          "owner": "Terceiro",
+          "actionDue": "2026-10-25",
+          "reviewDate": "2026-10-24",
+          "forecast": "2026-11-22",
+          "confirmed": "2026-10-11",
+          "requisition": "97000023",
+          "nf": "",
+          "parts": 11645,
+          "services": 5010,
+          "arrival": "2026-09-18",
+          "notification": "2026-09-20",
+          "opened": "2026-09-23",
+          "budgetForecast": "",
+          "quoted": "2026-10-09",
+          "approved": "2026-10-17",
+          "shipped": "",
+          "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+          "invoice": "Sim",
+          "invoiceMonth": "2026-10"
+        },
+        "orders": [
+          {
+            "id": "demo-order-22-1-1",
+            "pedido": "9900000221",
+            "due": "2026-10-23",
+            "note": "Prazo sintético de fornecimento."
+          }
+        ],
+        "quarantineAt": "",
+        "history": [
+          {
+            "at": "2026-10-21T12:00:00Z",
+            "text": "Dados fictícios gerados para avaliação."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "component": "Bomba hidráulica · DEMO 24",
+    "fleet": "777",
+    "seller": "Comercial Exemplo 3",
+    "client": "Cliente Demonstração 012",
+    "site": "",
+    "os": "800002301/02/03/04",
+    "type": "Rentável",
+    "status": "Enviado",
+    "situation": "Aguardando coleta",
+    "piecesNote": "",
+    "note": "Contato comercial fictício; aguardando retorno do cliente.",
+    "nextAction": "Programar coleta",
+    "owner": "Terceiro",
+    "actionDue": "2026-10-25",
+    "reviewDate": "2026-10-24",
+    "forecast": "2026-11-22",
+    "confirmed": "2026-10-11",
+    "requisition": "97000023",
+    "nf": "",
+    "order": "",
+    "parts": 11825,
+    "services": 5105,
+    "arrival": "2026-09-19",
+    "notification": "2026-09-21",
+    "opened": "2026-09-24",
+    "budgetForecast": "",
+    "quoted": "2026-10-10",
+    "approved": "2026-10-18",
+    "shipped": "",
+    "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+    "invoice": "Sim",
+    "invoiceMonth": "2026-10",
+    "id": "demo-row-024",
+    "history": [
+      {
+        "at": "2026-10-21T12:00:00Z",
+        "text": "Atendimento inteiramente fictício."
+      }
+    ],
+    "sap": [
+      {
+        "os": "800002301",
+        "client": "Cliente Demonstração 012",
+        "model": "777",
+        "serial": "DEMO-0023",
+        "service": "Bomba hidráulica · DEMO 24",
+        "parts": 11825,
+        "stage": "Enviado",
+        "origin": "Rentável",
+        "dates": {
+          "Data PR": "2026-11-22"
+        }
+      }
+    ],
+    "archived": false,
+    "primary": {},
+    "children": [
+      {
+        "number": "800002301",
+        "values": {
+          "status": "Enviado",
+          "situation": "Aguardando coleta",
+          "note": "Contato comercial fictício; aguardando retorno do cliente.",
+          "nextAction": "Programar coleta",
+          "owner": "Terceiro",
+          "actionDue": "2026-10-25",
+          "reviewDate": "2026-10-24",
+          "forecast": "2026-11-22",
+          "confirmed": "2026-10-11",
+          "requisition": "97000023",
+          "nf": "",
+          "parts": 11825,
+          "services": 5105,
+          "arrival": "2026-09-19",
+          "notification": "2026-09-21",
+          "opened": "2026-09-24",
+          "budgetForecast": "",
+          "quoted": "2026-10-10",
+          "approved": "2026-10-18",
+          "shipped": "",
+          "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+          "invoice": "Sim",
+          "invoiceMonth": "2026-10"
+        },
+        "orders": [
+          {
+            "id": "demo-order-23-0-1",
+            "pedido": "9900000230",
+            "due": "2026-10-23",
+            "note": "Prazo sintético de fornecimento."
+          }
+        ],
+        "quarantineAt": "",
+        "history": [
+          {
+            "at": "2026-10-21T12:00:00Z",
+            "text": "Dados fictícios gerados para avaliação."
+          }
+        ]
+      },
+      {
+        "number": "800002302",
+        "values": {
+          "status": "Notificação",
+          "situation": "Em andamento",
+          "note": "Cliente solicitou revisão de escopo.\nConferir montagem e previsão antes de responder.",
+          "nextAction": "Confirmar programação",
+          "owner": "Planejador",
+          "actionDue": "2026-10-26",
+          "reviewDate": "",
+          "forecast": "2026-11-23",
+          "confirmed": "",
+          "requisition": "97000024",
+          "nf": "",
+          "parts": 11920,
+          "services": 5145,
+          "arrival": "2026-09-19",
+          "notification": "2026-09-21",
+          "opened": "2026-09-24",
+          "budgetForecast": "",
+          "quoted": "",
+          "approved": "",
+          "shipped": "",
+          "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+          "invoice": "Não",
+          "invoiceMonth": "2026-10"
+        },
+        "orders": [],
+        "quarantineAt": "",
+        "history": [
+          {
+            "at": "2026-10-21T12:00:00Z",
+            "text": "Dados fictícios gerados para avaliação."
+          }
+        ]
+      },
+      {
+        "number": "800002303",
+        "values": {
+          "status": "Orçamento",
+          "situation": "Aguardando peças",
+          "note": "Contato comercial fictício; aguardando retorno do cliente.",
+          "nextAction": "Acompanhar pedido de peças",
+          "owner": "Comercial",
+          "actionDue": "2026-10-27",
+          "reviewDate": "2026-10-26",
+          "forecast": "2026-11-24",
+          "confirmed": "2026-10-21",
+          "requisition": "97000025",
+          "nf": "",
+          "parts": 12015,
+          "services": 5185,
+          "arrival": "2026-09-19",
+          "notification": "2026-09-21",
+          "opened": "2026-09-24",
+          "budgetForecast": "",
+          "quoted": "",
+          "approved": "",
+          "shipped": "",
+          "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+          "invoice": "Sim",
+          "invoiceMonth": "2026-10"
+        },
+        "orders": [
+          {
+            "id": "demo-order-23-2-1",
+            "pedido": "9900000232",
+            "due": "2026-10-25",
+            "note": "Prazo sintético de fornecimento."
+          },
+          {
+            "id": "demo-order-23-2-2",
+            "pedido": "9800000232",
+            "due": "2026-11-12",
+            "note": "Segundo pedido fictício; verificar previsão."
+          }
+        ],
+        "quarantineAt": "",
+        "history": [
+          {
+            "at": "2026-10-21T12:00:00Z",
+            "text": "Dados fictícios gerados para avaliação."
+          }
+        ]
+      },
+      {
+        "number": "800002304",
+        "values": {
+          "status": "Negociação",
+          "situation": "Aguardando terceiro",
+          "note": "Contato comercial fictício; aguardando retorno do cliente.",
+          "nextAction": "Acompanhar serviço externo",
+          "owner": "Oficina",
+          "actionDue": "2026-10-28",
+          "reviewDate": "2026-10-27",
+          "forecast": "2026-11-25",
+          "confirmed": "2026-10-20",
+          "requisition": "97000026",
+          "nf": "",
+          "parts": 12110,
+          "services": 5225,
+          "arrival": "2026-09-19",
+          "notification": "2026-09-21",
+          "opened": "2026-09-24",
+          "budgetForecast": "",
+          "quoted": "2026-10-10",
+          "approved": "",
+          "shipped": "",
+          "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+          "invoice": "Sim",
+          "invoiceMonth": "2026-10"
+        },
+        "orders": [
+          {
+            "id": "demo-order-23-3-1",
+            "pedido": "9900000233",
+            "due": "2026-10-26",
+            "note": "Prazo sintético de fornecimento."
+          }
+        ],
+        "quarantineAt": "",
+        "history": [
+          {
+            "at": "2026-10-21T12:00:00Z",
+            "text": "Dados fictícios gerados para avaliação."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "component": "Motor · DEMO 25",
+    "fleet": "320",
+    "seller": "Comercial Exemplo 1",
+    "client": "Cliente Demonstração 001",
+    "site": "Unidade Norte",
+    "os": "800002401",
+    "type": "Garantia",
+    "status": "Notificação",
+    "situation": "Em andamento",
+    "piecesNote": "",
+    "note": "Cliente solicitou revisão de escopo.\nConferir montagem e previsão antes de responder.",
+    "nextAction": "Confirmar programação",
+    "owner": "Planejador",
+    "actionDue": "2026-10-26",
+    "reviewDate": "",
+    "forecast": "2026-11-23",
+    "confirmed": "",
+    "requisition": "97000024",
+    "nf": "",
+    "order": "",
+    "parts": 12100,
+    "services": 5240,
+    "arrival": "2026-09-08",
+    "notification": "2026-09-10",
+    "opened": "2026-09-13",
+    "budgetForecast": "",
+    "quoted": "",
+    "approved": "",
+    "shipped": "",
+    "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+    "invoice": "Não",
+    "invoiceMonth": "2026-10",
+    "id": "demo-row-025",
+    "history": [
+      {
+        "at": "2026-10-21T12:00:00Z",
+        "text": "Atendimento inteiramente fictício."
+      }
+    ],
+    "sap": [
+      {
+        "os": "800002401",
+        "client": "Cliente Demonstração 001",
+        "model": "320",
+        "serial": "DEMO-0024",
+        "service": "Motor · DEMO 25",
+        "parts": 12100,
+        "stage": "Notificação",
+        "origin": "Garantia",
+        "dates": {
+          "Data PR": "2026-11-23"
+        }
+      }
+    ],
+    "archived": false,
+    "primary": {},
+    "children": [
+      {
+        "number": "800002401",
+        "values": {
+          "status": "Notificação",
+          "situation": "Em andamento",
+          "note": "Cliente solicitou revisão de escopo.\nConferir montagem e previsão antes de responder.",
+          "nextAction": "Confirmar programação",
+          "owner": "Planejador",
+          "actionDue": "2026-10-26",
+          "reviewDate": "",
+          "forecast": "2026-11-23",
+          "confirmed": "",
+          "requisition": "97000024",
+          "nf": "",
+          "parts": 12100,
+          "services": 5240,
+          "arrival": "2026-09-08",
+          "notification": "2026-09-10",
+          "opened": "2026-09-13",
+          "budgetForecast": "",
+          "quoted": "",
+          "approved": "",
+          "shipped": "",
+          "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+          "invoice": "Não",
+          "invoiceMonth": "2026-10"
+        },
+        "orders": [],
+        "quarantineAt": "",
+        "history": [
+          {
+            "at": "2026-10-21T12:00:00Z",
+            "text": "Dados fictícios gerados para avaliação."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "component": "Transmissão · DEMO 26",
+    "fleet": "950",
+    "seller": "Comercial Exemplo 2",
+    "client": "Cliente Demonstração 002",
+    "site": "Unidade Sul",
+    "os": "800002501/02",
+    "type": "Rentável",
+    "status": "Orçamento",
+    "situation": "Aguardando peças",
+    "piecesNote": "",
+    "note": "Contato comercial fictício; aguardando retorno do cliente.",
+    "nextAction": "Acompanhar pedido de peças",
+    "owner": "Comercial",
+    "actionDue": "2026-10-27",
+    "reviewDate": "2026-10-26",
+    "forecast": "2026-11-24",
+    "confirmed": "2026-10-21",
+    "requisition": "97000025",
+    "nf": "",
+    "order": "",
+    "parts": 12375,
+    "services": 5375,
+    "arrival": "2026-09-09",
+    "notification": "2026-09-11",
+    "opened": "2026-09-14",
+    "budgetForecast": "",
+    "quoted": "",
+    "approved": "",
+    "shipped": "",
+    "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+    "invoice": "Sim",
+    "invoiceMonth": "2026-10",
+    "id": "demo-row-026",
+    "history": [
+      {
+        "at": "2026-10-21T12:00:00Z",
+        "text": "Atendimento inteiramente fictício."
+      }
+    ],
+    "sap": [
+      {
+        "os": "800002501",
+        "client": "Cliente Demonstração 002",
+        "model": "950",
+        "serial": "DEMO-0025",
+        "service": "Transmissão · DEMO 26",
+        "parts": 12375,
+        "stage": "Orçamento",
+        "origin": "Rentável",
+        "dates": {
+          "Data PR": "2026-11-24"
+        }
+      }
+    ],
+    "archived": false,
+    "primary": {},
+    "children": [
+      {
+        "number": "800002501",
+        "values": {
+          "status": "Orçamento",
+          "situation": "Aguardando peças",
+          "note": "Contato comercial fictício; aguardando retorno do cliente.",
+          "nextAction": "Acompanhar pedido de peças",
+          "owner": "Comercial",
+          "actionDue": "2026-10-27",
+          "reviewDate": "2026-10-26",
+          "forecast": "2026-11-24",
+          "confirmed": "2026-10-21",
+          "requisition": "97000025",
+          "nf": "",
+          "parts": 12375,
+          "services": 5375,
+          "arrival": "2026-09-09",
+          "notification": "2026-09-11",
+          "opened": "2026-09-14",
+          "budgetForecast": "",
+          "quoted": "",
+          "approved": "",
+          "shipped": "",
+          "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+          "invoice": "Sim",
+          "invoiceMonth": "2026-10"
+        },
+        "orders": [
+          {
+            "id": "demo-order-25-0-1",
+            "pedido": "9900000250",
+            "due": "2026-10-25",
+            "note": "Prazo sintético de fornecimento."
+          },
+          {
+            "id": "demo-order-25-0-2",
+            "pedido": "9800000250",
+            "due": "2026-11-12",
+            "note": "Segundo pedido fictício; verificar previsão."
+          }
+        ],
+        "quarantineAt": "",
+        "history": [
+          {
+            "at": "2026-10-21T12:00:00Z",
+            "text": "Dados fictícios gerados para avaliação."
+          }
+        ]
+      },
+      {
+        "number": "800002502",
+        "values": {
+          "status": "Negociação",
+          "situation": "Aguardando terceiro",
+          "note": "Contato comercial fictício; aguardando retorno do cliente.",
+          "nextAction": "Acompanhar serviço externo",
+          "owner": "Oficina",
+          "actionDue": "2026-10-28",
+          "reviewDate": "2026-10-27",
+          "forecast": "2026-11-25",
+          "confirmed": "2026-10-20",
+          "requisition": "97000026",
+          "nf": "",
+          "parts": 12470,
+          "services": 5415,
+          "arrival": "2026-09-09",
+          "notification": "2026-09-11",
+          "opened": "2026-09-14",
+          "budgetForecast": "",
+          "quoted": "2026-10-04",
+          "approved": "",
+          "shipped": "",
+          "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+          "invoice": "Sim",
+          "invoiceMonth": "2026-10"
+        },
+        "orders": [
+          {
+            "id": "demo-order-25-1-1",
+            "pedido": "9900000251",
+            "due": "2026-10-26",
+            "note": "Prazo sintético de fornecimento."
+          }
+        ],
+        "quarantineAt": "",
+        "history": [
+          {
+            "at": "2026-10-21T12:00:00Z",
+            "text": "Dados fictícios gerados para avaliação."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "component": "Cilindro hidráulico · DEMO 27",
+    "fleet": "D8",
+    "seller": "Comercial Exemplo 3",
+    "client": "Cliente Demonstração 003",
+    "site": "",
+    "os": "800002601/02/03/04",
+    "type": "Garantia",
+    "status": "Negociação",
+    "situation": "Aguardando terceiro",
+    "piecesNote": "",
+    "note": "Contato comercial fictício; aguardando retorno do cliente.",
+    "nextAction": "Acompanhar serviço externo",
+    "owner": "Oficina",
+    "actionDue": "2026-10-28",
+    "reviewDate": "2026-10-27",
+    "forecast": "2026-11-25",
+    "confirmed": "2026-10-20",
+    "requisition": "97000026",
+    "nf": "",
+    "order": "",
+    "parts": 12650,
+    "services": 5510,
+    "arrival": "2026-09-10",
+    "notification": "2026-09-12",
+    "opened": "2026-09-15",
+    "budgetForecast": "",
+    "quoted": "2026-10-05",
+    "approved": "",
+    "shipped": "",
+    "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+    "invoice": "Sim",
+    "invoiceMonth": "2026-10",
+    "id": "demo-row-027",
+    "history": [
+      {
+        "at": "2026-10-21T12:00:00Z",
+        "text": "Atendimento inteiramente fictício."
+      }
+    ],
+    "sap": [
+      {
+        "os": "800002601",
+        "client": "Cliente Demonstração 003",
+        "model": "D8",
+        "serial": "DEMO-0026",
+        "service": "Cilindro hidráulico · DEMO 27",
+        "parts": 12650,
+        "stage": "Negociação",
+        "origin": "Garantia",
+        "dates": {
+          "Data PR": "2026-11-25"
+        }
+      }
+    ],
+    "archived": false,
+    "primary": {},
+    "children": [
+      {
+        "number": "800002601",
+        "values": {
+          "status": "Negociação",
+          "situation": "Aguardando terceiro",
+          "note": "Contato comercial fictício; aguardando retorno do cliente.",
+          "nextAction": "Acompanhar serviço externo",
+          "owner": "Oficina",
+          "actionDue": "2026-10-28",
+          "reviewDate": "2026-10-27",
+          "forecast": "2026-11-25",
+          "confirmed": "2026-10-20",
+          "requisition": "97000026",
+          "nf": "",
+          "parts": 12650,
+          "services": 5510,
+          "arrival": "2026-09-10",
+          "notification": "2026-09-12",
+          "opened": "2026-09-15",
+          "budgetForecast": "",
+          "quoted": "2026-10-05",
+          "approved": "",
+          "shipped": "",
+          "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+          "invoice": "Sim",
+          "invoiceMonth": "2026-10"
+        },
+        "orders": [
+          {
+            "id": "demo-order-26-0-1",
+            "pedido": "9900000260",
+            "due": "2026-10-26",
+            "note": "Prazo sintético de fornecimento."
+          }
+        ],
+        "quarantineAt": "",
+        "history": [
+          {
+            "at": "2026-10-21T12:00:00Z",
+            "text": "Dados fictícios gerados para avaliação."
+          }
+        ]
+      },
+      {
+        "number": "800002602",
+        "values": {
+          "status": "Aprovado",
+          "situation": "Aguardando envio do orçamento",
+          "note": "Contato comercial fictício; aguardando retorno do cliente.",
+          "nextAction": "Enviar orçamento",
+          "owner": "Terceiro",
+          "actionDue": "2026-10-29",
+          "reviewDate": "2026-10-28",
+          "forecast": "2026-11-26",
+          "confirmed": "2026-10-19",
+          "requisition": "97000027",
+          "nf": "",
+          "parts": 12745,
+          "services": 5550,
+          "arrival": "2026-09-10",
+          "notification": "2026-09-12",
+          "opened": "2026-09-15",
+          "budgetForecast": "",
+          "quoted": "2026-10-05",
+          "approved": "2026-10-15",
+          "shipped": "",
+          "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+          "invoice": "Não",
+          "invoiceMonth": "2026-10"
+        },
+        "orders": [],
+        "quarantineAt": "",
+        "history": [
+          {
+            "at": "2026-10-21T12:00:00Z",
+            "text": "Dados fictícios gerados para avaliação."
+          }
+        ]
+      },
+      {
+        "number": "800002603",
+        "values": {
+          "status": "Pronto",
+          "situation": "Aguardando negociação/aprovação",
+          "note": "Cliente solicitou revisão de escopo.\nConferir montagem e previsão antes de responder.",
+          "nextAction": "",
+          "owner": "Planejador",
+          "actionDue": "",
+          "reviewDate": "",
+          "forecast": "2026-11-27",
+          "confirmed": "",
+          "requisition": "97000028",
+          "nf": "",
+          "parts": 12840,
+          "services": 5590,
+          "arrival": "2026-09-10",
+          "notification": "2026-09-12",
+          "opened": "2026-09-15",
+          "budgetForecast": "",
+          "quoted": "2026-10-05",
+          "approved": "2026-10-15",
+          "shipped": "",
+          "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+          "invoice": "Sim",
+          "invoiceMonth": "2026-10"
+        },
+        "orders": [
+          {
+            "id": "demo-order-26-2-1",
+            "pedido": "9900000262",
+            "due": "2026-10-28",
+            "note": "Prazo sintético de fornecimento."
+          }
+        ],
+        "quarantineAt": "",
+        "history": [
+          {
+            "at": "2026-10-21T12:00:00Z",
+            "text": "Dados fictícios gerados para avaliação."
+          }
+        ]
+      },
+      {
+        "number": "800002604",
+        "values": {
+          "status": "Enviado",
+          "situation": "Aguardando programação/recurso",
+          "note": "Contato comercial fictício; aguardando retorno do cliente.",
+          "nextAction": "Programar serviço",
+          "owner": "Comercial",
+          "actionDue": "2026-10-31",
+          "reviewDate": "2026-10-30",
+          "forecast": "2026-11-28",
+          "confirmed": "2026-10-17",
+          "requisition": "97000029",
+          "nf": "",
+          "parts": 12935,
+          "services": 5630,
+          "arrival": "2026-09-10",
+          "notification": "2026-09-12",
+          "opened": "2026-09-15",
+          "budgetForecast": "",
+          "quoted": "2026-10-05",
+          "approved": "2026-10-15",
+          "shipped": "",
+          "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+          "invoice": "Sim",
+          "invoiceMonth": "2026-10"
+        },
+        "orders": [
+          {
+            "id": "demo-order-26-3-1",
+            "pedido": "9900000263",
+            "due": "2026-10-29",
+            "note": "Prazo sintético de fornecimento."
+          }
+        ],
+        "quarantineAt": "",
+        "history": [
+          {
+            "at": "2026-10-21T12:00:00Z",
+            "text": "Dados fictícios gerados para avaliação."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "component": "Comando final · DEMO 28",
+    "fleet": "777",
+    "seller": "Comercial Exemplo 1",
+    "client": "Cliente Demonstração 004",
+    "site": "Unidade Norte",
+    "os": "800002701",
+    "type": "Rentável",
+    "status": "Aprovado",
+    "situation": "Aguardando envio do orçamento",
+    "piecesNote": "",
+    "note": "Contato comercial fictício; aguardando retorno do cliente.",
+    "nextAction": "Enviar orçamento",
+    "owner": "Terceiro",
+    "actionDue": "2026-10-29",
+    "reviewDate": "2026-10-28",
+    "forecast": "2026-11-26",
+    "confirmed": "2026-10-19",
+    "requisition": "97000027",
+    "nf": "",
+    "order": "",
+    "parts": 12925,
+    "services": 5645,
+    "arrival": "2026-09-11",
+    "notification": "2026-09-13",
+    "opened": "2026-09-16",
+    "budgetForecast": "",
+    "quoted": "2026-10-06",
+    "approved": "2026-10-16",
+    "shipped": "",
+    "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+    "invoice": "Não",
+    "invoiceMonth": "2026-10",
+    "id": "demo-row-028",
+    "history": [
+      {
+        "at": "2026-10-21T12:00:00Z",
+        "text": "Atendimento inteiramente fictício."
+      }
+    ],
+    "sap": [
+      {
+        "os": "800002701",
+        "client": "Cliente Demonstração 004",
+        "model": "777",
+        "serial": "DEMO-0027",
+        "service": "Comando final · DEMO 28",
+        "parts": 12925,
+        "stage": "Aprovado",
+        "origin": "Rentável",
+        "dates": {
+          "Data PR": "2026-11-26"
+        }
+      }
+    ],
+    "archived": false,
+    "primary": {},
+    "children": [
+      {
+        "number": "800002701",
+        "values": {
+          "status": "Aprovado",
+          "situation": "Aguardando envio do orçamento",
+          "note": "Contato comercial fictício; aguardando retorno do cliente.",
+          "nextAction": "Enviar orçamento",
+          "owner": "Terceiro",
+          "actionDue": "2026-10-29",
+          "reviewDate": "2026-10-28",
+          "forecast": "2026-11-26",
+          "confirmed": "2026-10-19",
+          "requisition": "97000027",
+          "nf": "",
+          "parts": 12925,
+          "services": 5645,
+          "arrival": "2026-09-11",
+          "notification": "2026-09-13",
+          "opened": "2026-09-16",
+          "budgetForecast": "",
+          "quoted": "2026-10-06",
+          "approved": "2026-10-16",
+          "shipped": "",
+          "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+          "invoice": "Não",
+          "invoiceMonth": "2026-10"
+        },
+        "orders": [],
+        "quarantineAt": "",
+        "history": [
+          {
+            "at": "2026-10-21T12:00:00Z",
+            "text": "Dados fictícios gerados para avaliação."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "component": "Conversor · DEMO 29",
+    "fleet": "320",
+    "seller": "Comercial Exemplo 2",
+    "client": "Cliente Demonstração 005",
+    "site": "Unidade Sul",
+    "os": "800002801/02",
+    "type": "Garantia",
+    "status": "Pronto",
+    "situation": "Aguardando negociação/aprovação",
+    "piecesNote": "",
+    "note": "Cliente solicitou revisão de escopo.\nConferir montagem e previsão antes de responder.",
+    "nextAction": "",
+    "owner": "Planejador",
+    "actionDue": "",
+    "reviewDate": "",
+    "forecast": "2026-11-27",
+    "confirmed": "",
+    "requisition": "97000028",
+    "nf": "",
+    "order": "",
+    "parts": 13200,
+    "services": 5780,
+    "arrival": "2026-09-12",
+    "notification": "2026-09-14",
+    "opened": "2026-09-17",
+    "budgetForecast": "",
+    "quoted": "2026-10-07",
+    "approved": "2026-10-17",
+    "shipped": "",
+    "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+    "invoice": "Sim",
+    "invoiceMonth": "2026-10",
+    "id": "demo-row-029",
+    "history": [
+      {
+        "at": "2026-10-21T12:00:00Z",
+        "text": "Atendimento inteiramente fictício."
+      }
+    ],
+    "sap": [
+      {
+        "os": "800002801",
+        "client": "Cliente Demonstração 005",
+        "model": "320",
+        "serial": "DEMO-0028",
+        "service": "Conversor · DEMO 29",
+        "parts": 13200,
+        "stage": "Pronto",
+        "origin": "Garantia",
+        "dates": {
+          "Data PR": "2026-11-27"
+        }
+      }
+    ],
+    "archived": false,
+    "primary": {},
+    "children": [
+      {
+        "number": "800002801",
+        "values": {
+          "status": "Pronto",
+          "situation": "Aguardando negociação/aprovação",
+          "note": "Cliente solicitou revisão de escopo.\nConferir montagem e previsão antes de responder.",
+          "nextAction": "",
+          "owner": "Planejador",
+          "actionDue": "",
+          "reviewDate": "",
+          "forecast": "2026-11-27",
+          "confirmed": "",
+          "requisition": "97000028",
+          "nf": "",
+          "parts": 13200,
+          "services": 5780,
+          "arrival": "2026-09-12",
+          "notification": "2026-09-14",
+          "opened": "2026-09-17",
+          "budgetForecast": "",
+          "quoted": "2026-10-07",
+          "approved": "2026-10-17",
+          "shipped": "",
+          "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+          "invoice": "Sim",
+          "invoiceMonth": "2026-10"
+        },
+        "orders": [
+          {
+            "id": "demo-order-28-0-1",
+            "pedido": "9900000280",
+            "due": "2026-10-28",
+            "note": "Prazo sintético de fornecimento."
+          }
+        ],
+        "quarantineAt": "",
+        "history": [
+          {
+            "at": "2026-10-21T12:00:00Z",
+            "text": "Dados fictícios gerados para avaliação."
+          }
+        ]
+      },
+      {
+        "number": "800002802",
+        "values": {
+          "status": "Enviado",
+          "situation": "Aguardando programação/recurso",
+          "note": "Contato comercial fictício; aguardando retorno do cliente.",
+          "nextAction": "Programar serviço",
+          "owner": "Comercial",
+          "actionDue": "2026-10-31",
+          "reviewDate": "2026-10-30",
+          "forecast": "2026-11-28",
+          "confirmed": "2026-10-17",
+          "requisition": "97000029",
+          "nf": "",
+          "parts": 13295,
+          "services": 5820,
+          "arrival": "2026-09-12",
+          "notification": "2026-09-14",
+          "opened": "2026-09-17",
+          "budgetForecast": "",
+          "quoted": "2026-10-07",
+          "approved": "2026-10-17",
+          "shipped": "",
+          "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+          "invoice": "Sim",
+          "invoiceMonth": "2026-10"
+        },
+        "orders": [
+          {
+            "id": "demo-order-28-1-1",
+            "pedido": "9900000281",
+            "due": "2026-10-29",
+            "note": "Prazo sintético de fornecimento."
+          }
+        ],
+        "quarantineAt": "",
+        "history": [
+          {
+            "at": "2026-10-21T12:00:00Z",
+            "text": "Dados fictícios gerados para avaliação."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "component": "Bomba hidráulica · DEMO 30",
+    "fleet": "950",
+    "seller": "Comercial Exemplo 3",
+    "client": "Cliente Demonstração 006",
+    "site": "",
+    "os": "800002901/02/03/04",
+    "type": "Rentável",
+    "status": "Enviado",
+    "situation": "Aguardando programação/recurso",
+    "piecesNote": "",
+    "note": "Contato comercial fictício; aguardando retorno do cliente.",
+    "nextAction": "Programar serviço",
+    "owner": "Comercial",
+    "actionDue": "2026-10-31",
+    "reviewDate": "2026-10-30",
+    "forecast": "2026-11-28",
+    "confirmed": "2026-10-17",
+    "requisition": "97000029",
+    "nf": "",
+    "order": "",
+    "parts": 13475,
+    "services": 5915,
+    "arrival": "2026-09-13",
+    "notification": "2026-09-15",
+    "opened": "2026-09-18",
+    "budgetForecast": "",
+    "quoted": "2026-10-08",
+    "approved": "2026-10-18",
+    "shipped": "",
+    "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+    "invoice": "Sim",
+    "invoiceMonth": "2026-10",
+    "id": "demo-row-030",
+    "history": [
+      {
+        "at": "2026-10-21T12:00:00Z",
+        "text": "Atendimento inteiramente fictício."
+      }
+    ],
+    "sap": [
+      {
+        "os": "800002901",
+        "client": "Cliente Demonstração 006",
+        "model": "950",
+        "serial": "DEMO-0029",
+        "service": "Bomba hidráulica · DEMO 30",
+        "parts": 13475,
+        "stage": "Enviado",
+        "origin": "Rentável",
+        "dates": {
+          "Data PR": "2026-11-28"
+        }
+      }
+    ],
+    "archived": false,
+    "primary": {},
+    "children": [
+      {
+        "number": "800002901",
+        "values": {
+          "status": "Enviado",
+          "situation": "Aguardando programação/recurso",
+          "note": "Contato comercial fictício; aguardando retorno do cliente.",
+          "nextAction": "Programar serviço",
+          "owner": "Comercial",
+          "actionDue": "2026-10-31",
+          "reviewDate": "2026-10-30",
+          "forecast": "2026-11-28",
+          "confirmed": "2026-10-17",
+          "requisition": "97000029",
+          "nf": "",
+          "parts": 13475,
+          "services": 5915,
+          "arrival": "2026-09-13",
+          "notification": "2026-09-15",
+          "opened": "2026-09-18",
+          "budgetForecast": "",
+          "quoted": "2026-10-08",
+          "approved": "2026-10-18",
+          "shipped": "",
+          "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+          "invoice": "Sim",
+          "invoiceMonth": "2026-10"
+        },
+        "orders": [
+          {
+            "id": "demo-order-29-0-1",
+            "pedido": "9900000290",
+            "due": "2026-10-29",
+            "note": "Prazo sintético de fornecimento."
+          }
+        ],
+        "quarantineAt": "",
+        "history": [
+          {
+            "at": "2026-10-21T12:00:00Z",
+            "text": "Dados fictícios gerados para avaliação."
+          }
+        ]
+      },
+      {
+        "number": "800002902",
+        "values": {
+          "status": "Notificação",
+          "situation": "Aguardando teste/liberação",
+          "note": "Contato comercial fictício; aguardando retorno do cliente.",
+          "nextAction": "Realizar teste",
+          "owner": "Oficina",
+          "actionDue": "2026-10-17",
+          "reviewDate": "2026-10-21",
+          "forecast": "2026-11-29",
+          "confirmed": "2026-10-16",
+          "requisition": "97000030",
+          "nf": "",
+          "parts": 13570,
+          "services": 5955,
+          "arrival": "2026-09-13",
+          "notification": "2026-09-15",
+          "opened": "2026-09-18",
+          "budgetForecast": "",
+          "quoted": "",
+          "approved": "",
+          "shipped": "",
+          "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+          "invoice": "Não",
+          "invoiceMonth": "2026-10"
+        },
+        "orders": [
+          {
+            "id": "demo-order-29-1-2",
+            "pedido": "9800000291",
+            "due": "2026-11-07",
+            "note": "Segundo pedido fictício; verificar previsão."
+          }
+        ],
+        "quarantineAt": "",
+        "history": [
+          {
+            "at": "2026-10-21T12:00:00Z",
+            "text": "Dados fictícios gerados para avaliação."
+          }
+        ]
+      },
+      {
+        "number": "800002903",
+        "values": {
+          "status": "Orçamento",
+          "situation": "Aguardando coleta",
+          "note": "Contato comercial fictício; aguardando retorno do cliente.",
+          "nextAction": "Programar coleta",
+          "owner": "Terceiro",
+          "actionDue": "2026-10-18",
+          "reviewDate": "2026-10-22",
+          "forecast": "2026-11-30",
+          "confirmed": "2026-10-15",
+          "requisition": "97000031",
+          "nf": "",
+          "parts": 13665,
+          "services": 5995,
+          "arrival": "2026-09-13",
+          "notification": "2026-09-15",
+          "opened": "2026-09-18",
+          "budgetForecast": "",
+          "quoted": "",
+          "approved": "",
+          "shipped": "",
+          "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+          "invoice": "Sim",
+          "invoiceMonth": "2026-10"
+        },
+        "orders": [
+          {
+            "id": "demo-order-29-2-1",
+            "pedido": "9900000292",
+            "due": "2026-10-31",
+            "note": "Prazo sintético de fornecimento."
+          }
+        ],
+        "quarantineAt": "",
+        "history": [
+          {
+            "at": "2026-10-21T12:00:00Z",
+            "text": "Dados fictícios gerados para avaliação."
+          }
+        ]
+      },
+      {
+        "number": "800002904",
+        "values": {
+          "status": "Negociação",
+          "situation": "Em andamento",
+          "note": "Cliente solicitou revisão de escopo.\nConferir montagem e previsão antes de responder.",
+          "nextAction": "Confirmar programação",
+          "owner": "Planejador",
+          "actionDue": "2026-10-19",
+          "reviewDate": "",
+          "forecast": "2026-12-01",
+          "confirmed": "",
+          "requisition": "97000032",
+          "nf": "",
+          "parts": 13760,
+          "services": 6035,
+          "arrival": "2026-09-13",
+          "notification": "2026-09-15",
+          "opened": "2026-09-18",
+          "budgetForecast": "",
+          "quoted": "2026-10-08",
+          "approved": "",
+          "shipped": "",
+          "internal": "Registro criado artificialmente para testes de uso. Nenhuma OS real está representada.",
+          "invoice": "Sim",
+          "invoiceMonth": "2026-10"
+        },
+        "orders": [
+          {
+            "id": "demo-order-29-3-1",
+            "pedido": "9900000293",
+            "due": "2026-11-01",
+            "note": "Prazo sintético de fornecimento."
+          }
+        ],
+        "quarantineAt": "",
+        "history": [
+          {
+            "at": "2026-10-21T12:00:00Z",
+            "text": "Dados fictícios gerados para avaliação."
+          }
+        ]
+      }
+    ]
+  }
+]
