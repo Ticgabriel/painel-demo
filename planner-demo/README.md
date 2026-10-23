@@ -10,3 +10,7 @@ Todos os registros, nomes, documentos, valores, datas e relatos foram gerados ar
 - O gerencial e o comercial estão na raiz do mesmo repositório. A integração de atualizações ainda será especificada.
 
 Código fonte em `src/`. Não contém as planilhas ou os JSONs de trabalho.
+
+Revisão de usabilidade: [CORRECOES_PLANEJADOR.md](CORRECOES_PLANEJADOR.md).
+
+Para reconstruir e verificar: `python3 build.py`, `node --check combined.js`, `node test-planner.cjs`.
