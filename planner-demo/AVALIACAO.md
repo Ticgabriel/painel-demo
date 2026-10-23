@@ -1,3 +1,5 @@
+> Atualização de 23/10/2026: os achados abaixo retratam a primeira auditoria. As correções do planejador e suas validações estão em [CORRECOES_PLANEJADOR.md](CORRECOES_PLANEJADOR.md). A integração com o gerencial/comercial continua como proposta, sem implementação.
+
 # Avaliação do planejador e integração com os painéis de OS
 
 **Data:** 23/10/2026. **Ambiente:** navegador remoto Chrome, com dados exclusivamente fictícios.
